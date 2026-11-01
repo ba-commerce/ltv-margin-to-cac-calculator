@@ -39,4 +39,4 @@ Shopify only for now.
 
 ## About
 
-Built by Sarah Carusona, DTC growth operator and founder of [BA Commerce](https://ba-commerce.com). I've run a 9-figure ecommerce P&L and work with $5-50M DTC brands.
+Built by Sarah Carusona, DTC growth operator and founder of [BA Commerce](https://ba-commerce.com). I've run 7, 8 and 9-figure P&Ls and work with $5-50M DTC brands.
